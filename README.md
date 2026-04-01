@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ekagra 👋
 
-<!--
-**ekagra-bit/ekagra-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (MITS Gwalior)  
+🤖 Interested in AI, Machine Learning & Problem Solving  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- AI Yoga Pose Trainer (Real-time pose detection & correction)
+- Fraud Detection System (ML-based anomaly detection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+C, C++, Python | DSA (Basic) | TensorFlow.js  
+
+## 🚀 Currently Working On
+- Improving DSA
+- Building AI-based applications
